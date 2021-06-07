@@ -1,0 +1,12 @@
+*.a
+*.so
+*.exe
+*.cbp
+*_test
+test_*
+.idea
+CMakeCache.txt
+CMakeFiles
+CTestTestfile.cmake
+Testing
+cmake_install.cmake
